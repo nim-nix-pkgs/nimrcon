@@ -11,7 +11,6 @@
   inputs.src-nimrcon-master.ref   = "refs/heads/master";
   inputs.src-nimrcon-master.owner = "mcilya";
   inputs.src-nimrcon-master.repo  = "nimrcon";
-  inputs.src-nimrcon-master.dir   = "";
   inputs.src-nimrcon-master.type  = "github";
   
   inputs."struct".owner = "nim-nix-pkgs";
